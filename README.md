@@ -37,4 +37,4 @@ Meu maior sonho profissional é evoluir como programadora Java para **abrir port
 Sinta-se à vontade para entrar em contato:
 
 - **GitHub:** [ainoolau](https://github.com/ainoolau)
-- **LinkedIn:** [ainoolau](https://linkedin.com/in/ainoolaudev}
+- **LinkedIn:** [ainoolau](https://linkedin.com/in/ainoolaudev)
